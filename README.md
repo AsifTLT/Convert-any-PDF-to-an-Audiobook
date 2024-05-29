@@ -1,3 +1,6 @@
 "# Convert-any-PDF-to-an-Audiobook" 
-Convert any PDF to an Audiobook with just 12 lines of Python. You can try it as a beginner. 
-All you need is just two python libraries: pyttsx3 and PyPDF2 
+Are you too lazy?
+ a person who doesn't like to read books then download our project,
+ in this project, we created Audiobooks with Python, 
+ These audiobooks Convert PDF, any PDF file you run will convert to audio,  
+ you close your eyes and lie down and Our audiobooks will read and you listen to all your PDFs
